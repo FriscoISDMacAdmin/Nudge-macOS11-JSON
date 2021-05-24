@@ -6,11 +6,11 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT211896#macos114",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos114"
         },
         {
           "_language": "es",
