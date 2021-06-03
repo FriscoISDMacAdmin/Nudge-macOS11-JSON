@@ -26,8 +26,8 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-      "requiredInstallationDate": "2021-06-10T05:01:00Z",
-      "requiredMinimumOSVersion": "11.5",
+      "requiredInstallationDate": "2021-06-17T05:01:00Z",
+      "requiredMinimumOSVersion": "11.4",
       "targetedOSVersions": [
         "11.0",
         "11.0.1",
@@ -37,8 +37,7 @@
         "11.2.2",
         "11.2.3",
         "11.3",
-        "11.3.1",
-        "11.4"
+        "11.3.1"
       ]
     }
   ],
